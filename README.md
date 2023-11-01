@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Armando Tavars - @arctavares
+- 👋 Hi, I’m Armando Tavares - @arctavares
 - 👀 I’m interested in everything related to front-end skills
 - 🌱 I’m currently learning flutter, figma, and improving my css skills
 - 📫 How to reach me:
