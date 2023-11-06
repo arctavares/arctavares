@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Armando Tavares - @arctavares
 - 👀 I’m interested in everything related to front-end skills
-- 🌱 I’m currently learning flutter, figma, and improving my css skills
+- 🌱 I’m currently learning the basics of backend
 - 📫 How to reach me:
 - linkedin: https://www.linkedin.com/in/armando-tavares/
 - Email: cosilk@hotmail.com
